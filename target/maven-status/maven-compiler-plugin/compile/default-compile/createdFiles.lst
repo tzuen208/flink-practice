@@ -1,0 +1,10 @@
+org/myorg/quickstart/Kmeans.class
+org/myorg/quickstart/Job.class
+org/myorg/quickstart/Kmeans$point.class
+org/myorg/quickstart/Kmeans$meancenter.class
+org/myorg/quickstart/Kmeans$convertTupleCenter.class
+org/myorg/quickstart/Kmeans$minDistance.class
+org/myorg/quickstart/Kmeans$centerconvert.class
+org/myorg/quickstart/Kmeans$convertTuple.class
+org/myorg/quickstart/Kmeans$center.class
+org/myorg/quickstart/Kmeans$sumcenters.class
